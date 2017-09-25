@@ -1,0 +1,759 @@
+[ 2017-09-02T00:49:13+08:00 ] 47.93.112.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1988' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001369s ]
+
+[ 2017-09-02T01:03:15+08:00 ] 121.199.70.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1989' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-09-02T02:21:13+08:00 ] 58.217.192.54 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1990' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001945s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001816s ]
+
+[ 2017-09-02T03:04:18+08:00 ] 119.23.154.193 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1991' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001280s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 112.64.211.179 http://dongtaiwang.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1992' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002430s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 171.34.218.183 www.baidu.com:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1993' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 175.42.1.154 http://www.123cha.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0018s ]
+SQL: UPDATE `pvinfo` SET `pv`='1996' WHERE ( id=1 ) [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 175.42.1.154 cn.bing.com:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='1994' WHERE ( id=1 ) [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 139.212.128.140 http://ip-api.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0017s ]
+SQL: UPDATE `pvinfo` SET `pv`='1995' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003141s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 124.225.42.253 http://www.minghui.org/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1997' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001280s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 222.82.49.38 http://www.epochtimes.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='1998' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 182.245.40.184 boxun.com:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='1999' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002537s ]
+
+[ 2017-09-02T03:48:22+08:00 ] 222.82.51.69 www.voanews.com:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2000' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005513s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001252s ]
+
+[ 2017-09-02T05:09:37+08:00 ] 47.90.92.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2001' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001137s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001197s ]
+
+[ 2017-09-02T07:11:40+08:00 ] 106.11.227.136 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001407s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2002' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001267s ]
+
+[ 2017-09-02T08:31:05+08:00 ] 106.14.19.151 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001524s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='2003' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2017-09-02T09:36:10+08:00 ] 114.215.45.101 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='2004' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004761s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004826s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001346s ]
+
+[ 2017-09-02T09:52:11+08:00 ] 106.11.226.229 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2005' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001486s ]
+
+[ 2017-09-02T11:25:28+08:00 ] 60.191.38.77 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2006' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001231s ]
+
+[ 2017-09-02T11:41:29+08:00 ] 47.93.112.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2007' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001315s ]
+
+[ 2017-09-02T13:47:55+08:00 ] 140.205.201.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='2008' WHERE ( id=1 ) [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002419s ]
+
+[ 2017-09-02T15:49:01+08:00 ] 27.211.179.120 www.baidu.com:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001336s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0016s ]
+SQL: UPDATE `pvinfo` SET `pv`='2010' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-09-02T15:49:01+08:00 ] 139.226.100.60 http://dongtaiwang.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='2009' WHERE ( id=1 ) [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005323s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005812s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2017-09-02T15:49:01+08:00 ] 117.88.107.60 boxun.com:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2011' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2017-09-02T15:49:01+08:00 ] 113.128.105.140 http://www.123cha.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2012' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001331s ]
+
+[ 2017-09-02T15:49:01+08:00 ] 182.101.48.145 cn.bing.com:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000179s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='2013' WHERE ( id=1 ) [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004512s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2017-09-02T15:49:01+08:00 ] 182.101.49.145 http://ip-api.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006697s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2014' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2017-09-02T15:49:04+08:00 ] 106.45.1.90 http://www.minghui.org/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: UPDATE `pvinfo` SET `pv`='2015' WHERE ( id=1 ) [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001428s ]
+
+[ 2017-09-02T15:49:04+08:00 ] 106.45.1.183 http://www.epochtimes.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2016' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001407s ]
+
+[ 2017-09-02T16:56:21+08:00 ] 123.59.146.153 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001320s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2017' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001280s ]
+
+[ 2017-09-02T17:11:04+08:00 ] 47.90.92.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2018' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001201s ]
+
+[ 2017-09-02T18:36:06+08:00 ] 61.147.91.39 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2019' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001327s ]
+
+[ 2017-09-02T20:58:31+08:00 ] 139.162.119.197 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+SQL: SHOW COLUMNS FROM `pvinfo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `pvinfo` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: UPDATE `pvinfo` SET `pv`='2020' WHERE ( id=1 ) [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001485s ]
+
